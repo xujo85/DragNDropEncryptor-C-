@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\DND\DND\bin\Debug\DND.exe
+C:\Users\Administrator\source\repos\DND\DND\bin\Debug\DND.exe.config
+C:\Users\Administrator\source\repos\DND\DND\bin\Debug\DND.pdb
+C:\Users\Administrator\source\repos\DND\DND\obj\Debug\DND.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DND\DND\obj\Debug\DND.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\DND\DND\obj\Debug\DND.Form1.resources
+C:\Users\Administrator\source\repos\DND\DND\obj\Debug\DND.Properties.Resources.resources
+C:\Users\Administrator\source\repos\DND\DND\obj\Debug\DND.Resource1.resources
+C:\Users\Administrator\source\repos\DND\DND\obj\Debug\DND.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\DND\DND\obj\Debug\DND.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DND\DND\obj\Debug\DND.exe
+C:\Users\Administrator\source\repos\DND\DND\obj\Debug\DND.pdb
