@@ -1,0 +1,105 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "GUI/1.0.0": {
+        "dependencies": {
+          "Aspose.Zip": "23.3.0",
+          "NativeMemoryArray": "1.2.0",
+          "SharpCompress": "0.33.0"
+        },
+        "runtime": {
+          "GUI.dll": {}
+        }
+      },
+      "Aspose.Zip/23.3.0": {
+        "dependencies": {
+          "System.Text.Encoding.CodePages": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Aspose.Zip.dll": {
+            "assemblyVersion": "23.3.0.0",
+            "fileVersion": "23.3.0.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/2.0.0": {},
+      "NativeMemoryArray/1.2.0": {
+        "runtime": {
+          "lib/net6.0/NativeMemoryArray.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      },
+      "SharpCompress/0.33.0": {
+        "runtime": {
+          "lib/net7.0/SharpCompress.dll": {
+            "assemblyVersion": "0.33.0.0",
+            "fileVersion": "0.33.0.0"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.0": {},
+      "System.Text.Encoding.CodePages/4.5.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.0.0",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aspose.Zip/23.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MHzCzPN28N0HMD7T7008K4wf2Xeksm648wEPEEP0ocAAtjYaBuIJk35LmIMo7g8s+j6l8vw8DluFM8beoVDUBg==",
+      "path": "aspose.zip/23.3.0",
+      "hashPath": "aspose.zip.23.3.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
+      "path": "microsoft.netcore.platforms/2.0.0",
+      "hashPath": "microsoft.netcore.platforms.2.0.0.nupkg.sha512"
+    },
+    "NativeMemoryArray/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P+T32CnRaXdcEKSxdQrUngqbbfWDPmnStv5V+Ux9/jr8LQ/hObqWfr0rOfj2s4rCeDOYG4MP9x2tM4tk0i3F0A==",
+      "path": "nativememoryarray/1.2.0",
+      "hashPath": "nativememoryarray.1.2.0.nupkg.sha512"
+    },
+    "SharpCompress/0.33.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FlHfpTAADzaSlVCBF33iKJk9UhOr3Xj+r5LXbW2GzqYr0SrhiOf6shLX2LC2fqs7g7d+YlwKbBXqWFtb+e7icw==",
+      "path": "sharpcompress/0.33.0",
+      "hashPath": "sharpcompress.0.33.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YrzNWduCDHhUaSRBxHxL11UkM2fD6y8hITHis4/LbQZ6vj3vdRjoH3IoPWWC9uDXK2wHIqn+b5gv1Np/VKyM1g==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-S0wEUiKcLvRlkFUXca8uio1UQ5bYQzYgOmOKtCqaBQC3GR9AJjh43otcM32IGsAyvadFTaAMw9Irm6dS4Evfng==",
+      "path": "system.text.encoding.codepages/4.5.0",
+      "hashPath": "system.text.encoding.codepages.4.5.0.nupkg.sha512"
+    }
+  }
+}
